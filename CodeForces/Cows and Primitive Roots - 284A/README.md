@@ -1,4 +1,4 @@
-# [Cows and Primitive Roots](https://codeforces.com/contest/284/problem/A)
+# [Cows and Primitive Roots - 284A](https://codeforces.com/contest/284/problem/A)
 ### `BackTracking` Problem
 # Solution
 ```cpp

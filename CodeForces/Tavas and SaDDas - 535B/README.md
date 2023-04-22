@@ -1,4 +1,4 @@
-# [Tavas and SaDDas](https://codeforces.com/problemset/problem/535/B)
+# [Tavas and SaDDas - 535B](https://codeforces.com/problemset/problem/535/B)
 ### `BackTracking` Problem
 # Solution
 ```cpp
